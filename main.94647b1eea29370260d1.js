@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(n,o,c){},QfWi:function(n,o,c){"use strict";c.r(o);var t={};c.r(t),c.d(t,"a",(function(){return u})),c.d(t,"b",(function(){return i})),c.d(t,"c",(function(){return r})),c.d(t,"d",(function(){return e}));c("L1EO");var u=5,i=10,r=function(){console.log(u+i)},e=[12,23,34];(function(n){console.log("new js2222!!!"+n)})("blablabla"),r(),console.log(t)}},[["QfWi",1]]]);
+//# sourceMappingURL=main.94647b1eea29370260d1.js.map
