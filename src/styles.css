@@ -1,3 +1,35 @@
+/* * {
+  outline: 1px solid tomato;
+} */
+
 body {
-  background-color: aquamarine;
+  background-image: linear-gradient(
+      to right,
+      rgba(47, 48, 58, 0.1),
+      rgba(47, 48, 58, 0.1)
+    ),
+    /* url(./images/seamless-pattern-of-cinema-icons-with-doodle-style_7130-942.jpg); */
+      /* url(./images/seamless-pattern-with-cinema-elements_185107-127.jpg); */
+      /* url(./images/images.jpg); */
+      url(./images/1603486114_20-p-besshovnii-fon-dlya-saita-25.jpg);
+  /* url(./images/3a4d92abaa6562ba31cd9bc24df7d6e8.jpg); */
+  background-repeat: repeat;
+  background-size: 600px;
+}
+
+.conteiner {
+  padding: 100px;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.list-item {
+  margin-bottom: 20px;
 }
